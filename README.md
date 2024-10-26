@@ -6,11 +6,13 @@
 # Requisitos
 
 1. Grafo Simples :
-- sem arestas paralelas ou laços
-- direcionados ou não-direcionados
-- valorados ou não-valorados
-- conexo ou não-conexo
-
+- Sem arestas paralelas ou laços
+- Direcionados ou não-direcionados
+- Valorados ou não-valorados
+- Conexo ou não-conexo
+- Pode criar o grafo inserindo as informações em lote
+- Ser capaz de imprimir e/ou visualizar o grafo
+- Ter as informações de Ordem e Tamanho do Grafo
 
 # Tecnologias utilizadas
 
